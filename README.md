@@ -3,17 +3,14 @@ deeplearning trajectory prediction in 2020-2
 
 ## 구성원 :
 인하대학교 산업경영공학과<br>
-팀장 <br>
 : 12140471 김성진 <br>
-팀원 <br>
 : 12160539 김성민 <br>
 : 12180604 김민규 <br>
-
-데이터 출처 : https://www.microsoft.com/en-us/download/details.aspx?id=52367&from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fdownloads%2Fb16d359d-d164-469e-9fd4-daa38f2b2e13%2F
 
 ## 개요 :
 
 한 사람의 데이터를 바탕으로 과거의 데이터를 바탕으로 미래의 방문할 장소 혹은 좌표를 예측하는 프로젝트
+데이터 출처 : https://www.microsoft.com/en-us/download/details.aspx?id=52367&from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fdownloads%2Fb16d359d-d164-469e-9fd4-daa38f2b2e13%2F
 
 ## 사용될 모델
 1. lstm 완료 - 파라미터 튜닝 중
