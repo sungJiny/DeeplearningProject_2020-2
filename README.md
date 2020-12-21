@@ -2,7 +2,7 @@
 deeplearning trajectory prediction in 2020-2
 
 ## 구성원 :
-인하대학교 <br>
+인하대학교 산업경영공학과<br>
 팀장 <br>
 : 12140471 김성진 <br>
 팀원 <br>
