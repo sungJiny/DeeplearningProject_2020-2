@@ -19,7 +19,7 @@ deeplearning trajectory prediction in 2020-2
 
 ## 디렉토리 구조
 Map_info : 
-1) 구글 map api를 활용해 좌표 데이터를 바탕으로 주소를 받아온 후 papago api를 활용해 그 데이터를 해석하여 한글로 만들어 냄 
+구글 map api를 활용해 좌표 데이터를 바탕으로 주소를 받아온 후 papago api를 활용해 그 데이터를 해석하여 한글로 만들어 냄 
 
 DataPreprocessing : trajectory 기본 데이터 전처리
 
